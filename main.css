@@ -1,0 +1,9 @@
+button.click {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+button.click:active, button.click.active {
+    background: red;
+}
